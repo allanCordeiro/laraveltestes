@@ -57,7 +57,7 @@ return [
             'host'      => 'localhost',
             'database'  => 'api_teste',
             'username'  => 'root',
-            'password'  => 'as28xp10',
+            'password'  => '123456',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
